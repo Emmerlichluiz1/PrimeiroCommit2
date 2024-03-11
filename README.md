@@ -16,4 +16,4 @@
 Git commit é como definir um ponto de verificação no processo de desenvolvimento. Você pode voltar a esse ponto mais tarde, se necessário.
 Também precisamos escrever uma mensagem breve para explicar o que desenvolvemos ou alteramos no código-fonte.
  
-
+:stuck_out_tongue_closed_eyes:
